@@ -1,0 +1,5 @@
+Faculty Name: Neeraj Kumar Sharma
+Department: School of DS & AI
+Phone Number: 91-361-258-3507
+Email: neerajs@iitg.ac.in
+Research Interests: Bio-acoustics, health-acoustics, speech & audio; Brain-informed signal processing (behavioral and EEG data capture and analysis); AI for perception and cognition; Non-stationary time-series signal modelling (sampling and time-frequency analysis).
